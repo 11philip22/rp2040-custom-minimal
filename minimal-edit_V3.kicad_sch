@@ -471,7 +471,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library_RP2040-minimal_V3:PinHeader_1x02_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -629,7 +629,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library_RP2040-minimal_V3:PinHeader_2x18_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1775,7 +1775,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library_RP2040-minimal_V3:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2253,7 +2253,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(property "Footprint" "Library_RP2040-minimal_V3:SOT-223-3_TabPin2"
 				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2548,7 +2548,7 @@
 					)
 				)
 			)
-			(property "Footprint" "RP2040_minimal:RP2040-QFN-56"
+			(property "Footprint" "Library_RP2040-minimal_V3:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias"
 				(at -19.05 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3673,7 +3673,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+			(property "Footprint" "Library_RP2040-minimal_V3:SOT-23-6"
 				(at 17.78 -11.43 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4306,7 +4306,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_GCT:CONN_USB4930-00-A_GCT"
+			(property "Footprint" "Library_RP2040-minimal_V3:CONN_USB4930-00-A_GCT"
 				(at -20.066 11.938 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6208,7 +6208,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+			(property "Footprint" "Library_RP2040-minimal_V3:SOIC-8_5.3x5.3mm_P1.27mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13945,9 +13945,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef4c292")
 		(property "Reference" "H1"
@@ -14019,9 +14019,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef4cf1f")
 		(property "Reference" "H2"
@@ -14093,9 +14093,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef4d323")
 		(property "Reference" "H3"
@@ -14167,9 +14167,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef4d57b")
 		(property "Reference" "H4"
@@ -15629,9 +15629,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f30f0ba")
 		(property "Reference" "J2"
@@ -15870,9 +15870,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f4b0bc9")
 		(property "Reference" "J4"
@@ -16050,9 +16050,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f4b4ce4")
 		(property "Reference" "J3"
