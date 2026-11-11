@@ -16928,7 +16928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library_RP2040-minimal_V3:CONN_USB4930-00-A_GCT"
+		(property "Footprint" "Library_RP2040-minimal_V3:USB-C_G-Switch_GT-USB-7010ASV_C2988369"
 			(at 60.325 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16951,7 +16951,7 @@
 				)
 			)
 		)
-		(property "Description" "USB 2.0 Type-C receptacle; LCSC C2988369; footprint-compatible with GCT USB4930-00-A land pattern"
+		(property "Description" "USB 2.0 Type-C receptacle; G-Switch GT-USB-7010ASV; LCSC C2988369"
 			(at 71.12 85.09 0)
 			(hide yes)
 			(show_name no)
