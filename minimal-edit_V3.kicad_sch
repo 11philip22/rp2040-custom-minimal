@@ -11724,7 +11724,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005edac067")
 		(property "Reference" "R2"
 			(at 66.548 132.1816 0)
