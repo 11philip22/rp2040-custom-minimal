@@ -16438,7 +16438,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ABM8-272-T3"
+		(property "Value" "TAXM12M4RLBDDT2T"
 			(at 139.7 158.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16460,7 +16460,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121909_Abracon-LLC-ABM8-272-T3_C20625731.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109101930_Yajingxin-TAXM12M4RLBDDT2T_C133334.pdf"
 			(at 146.05 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -16492,7 +16492,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C20625731"
+		(property "LCSC Part #" "C133334"
 			(at 146.05 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -16734,7 +16734,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "30p"
 			(at 130.937 164.211 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16756,7 +16756,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
 			(at 132.08 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -16767,7 +16767,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1644"
+		(property "LCSC Part #" "C1658"
 			(at 132.08 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17263,7 +17263,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "30p"
 			(at 130.937 174.371 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17285,7 +17285,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
 			(at 132.08 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -17296,7 +17296,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1644"
+		(property "LCSC Part #" "C1658"
 			(at 132.08 171.45 0)
 			(hide yes)
 			(show_name no)

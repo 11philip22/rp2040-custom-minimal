@@ -7326,7 +7326,7 @@
 				)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "30p"
 			(at 0 1.43 270)
 			(layer "F.Fab")
 			(uuid "f8c7c36f-4bcb-45f5-a857-a7df77bf1d6f")
@@ -7337,7 +7337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -7371,7 +7371,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1644"
+		(property "LCSC Part #" "C1658"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7504,7 +7504,7 @@
 				)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "30p"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "60ca965c-c23e-4b33-81ad-68838bf20ec0")
@@ -7515,7 +7515,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7549,7 +7549,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1644"
+		(property "LCSC Part #" "C1658"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7681,7 +7681,7 @@
 				)
 			)
 		)
-		(property "Value" "ABM8-272-T3"
+		(property "Value" "TAXM12M4RLBDDT2T"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(uuid "8ae857ed-4665-43ef-bf29-522449b02f5b")
@@ -7692,7 +7692,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121909_Abracon-LLC-ABM8-272-T3_C20625731.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109101930_Yajingxin-TAXM12M4RLBDDT2T_C133334.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7726,7 +7726,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C20625731"
+		(property "LCSC Part #" "C133334"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
