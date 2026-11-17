@@ -7326,7 +7326,7 @@
 				)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 0 1.43 270)
 			(layer "F.Fab")
 			(uuid "f8c7c36f-4bcb-45f5-a857-a7df77bf1d6f")
@@ -7337,7 +7337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -7371,7 +7371,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1658"
+		(property "LCSC Part #" "C1644"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7504,7 +7504,7 @@
 				)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "60ca965c-c23e-4b33-81ad-68838bf20ec0")
@@ -7515,7 +7515,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7549,7 +7549,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1658"
+		(property "LCSC Part #" "C1644"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7681,7 +7681,7 @@
 				)
 			)
 		)
-		(property "Value" "TAXM12M4RLBDDT2T"
+		(property "Value" "ABM8-272-T3"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(uuid "8ae857ed-4665-43ef-bf29-522449b02f5b")
@@ -7692,7 +7692,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109101930_Yajingxin-TAXM12M4RLBDDT2T_C133334.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121909_Abracon-LLC-ABM8-272-T3_C20625731.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7726,7 +7726,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C133334"
+		(property "LCSC Part #" "C20625731"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8324,15 +8324,6 @@
 		(path "/7baf1d9a-1197-4410-966b-1a9fb4be7297")
 		(sheetname "/")
 		(sheetfile "minimal-edit_V3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "17" "18" "19" "20" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11"
-					"12" "13" "14" "15" "16" "A4" "B4" "A9" "B9" "A5" "B5" "A6" "B6" "A7"
-					"B7" "A8" "B8" "A1" "B1" "A12" "B12"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8487,8 +8478,6 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
-			(pinfunction "SHIELD_17")
-			(pintype "passive")
 			(uuid "1890dae0-a77a-428d-b6ae-af98bb101cfa")
 		)
 		(pad "18" thru_hole oval
@@ -8498,8 +8487,6 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
-			(pinfunction "SHIELD_18")
-			(pintype "passive")
 			(uuid "a7a7402d-0650-484d-899d-40f23e7b0db3")
 		)
 		(pad "19" thru_hole oval
@@ -8509,8 +8496,6 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
-			(pinfunction "SHIELD_19")
-			(pintype "passive")
 			(uuid "1fe40cff-43ce-45f5-84f3-992767477590")
 		)
 		(pad "20" thru_hole oval
@@ -8520,8 +8505,6 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
-			(pinfunction "SHIELD_20")
-			(pintype "passive")
 			(uuid "96f4d952-bc7c-4460-b719-3264be2059bc")
 		)
 		(pad "A1" smd rect
@@ -8529,8 +8512,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
-			(pinfunction "GND_A1")
-			(pintype "passive")
 			(uuid "373e5751-de87-445b-9ba5-232e967ebe94")
 		)
 		(pad "A4" smd rect
@@ -8538,8 +8519,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "VBUS")
-			(pinfunction "VBUS_A4")
-			(pintype "passive")
 			(uuid "9a342468-bcc5-492e-a662-12bd1e5ca646")
 		)
 		(pad "A5" smd rect
@@ -8547,8 +8526,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(J5-CC1)")
-			(pinfunction "CC1_A5")
-			(pintype "bidirectional")
 			(uuid "42416066-8d5b-445f-b384-c29251b9660f")
 		)
 		(pad "A6" smd rect
@@ -8556,8 +8533,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_D+")
-			(pinfunction "D+_A6")
-			(pintype "bidirectional")
 			(uuid "d6b5a48a-2408-4a7a-ae6e-fe4ba5bde177")
 		)
 		(pad "A7" smd rect
@@ -8565,8 +8540,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_D-")
-			(pinfunction "D-_A7")
-			(pintype "bidirectional")
 			(uuid "ca2b5fe8-c3a3-46a4-be40-0ee83f9b9ab6")
 		)
 		(pad "A8" smd rect
@@ -8574,8 +8547,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(J5-SBU1-PadA8)")
-			(pinfunction "SBU1_A8")
-			(pintype "bidirectional")
 			(uuid "64c31388-6ea0-4302-b9c1-c27ed3bdd56a")
 		)
 		(pad "A9" smd rect
@@ -8583,8 +8554,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "VBUS")
-			(pinfunction "VBUS_A9")
-			(pintype "passive")
 			(uuid "8c9f0c11-8864-4ee2-8714-b220b7696507")
 		)
 		(pad "A12" smd rect
@@ -8592,8 +8561,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
-			(pinfunction "GND_A12")
-			(pintype "passive")
 			(uuid "43043978-c685-430b-900f-a418a1e9a1ee")
 		)
 		(pad "B1" smd rect
@@ -8601,8 +8568,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
-			(pinfunction "GND_B1")
-			(pintype "passive")
 			(uuid "3c10d760-0525-4d25-b0a0-6e3309d94741")
 		)
 		(pad "B4" smd rect
@@ -8610,8 +8575,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "VBUS")
-			(pinfunction "VBUS_B4")
-			(pintype "passive")
 			(uuid "8e2b9e48-3781-454f-a180-60c6bcbfdf1e")
 		)
 		(pad "B5" smd rect
@@ -8619,8 +8582,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(J5-CC2)")
-			(pinfunction "CC2_B5")
-			(pintype "bidirectional")
 			(uuid "3de405a0-1a9a-4b2d-9382-96f819f5b23e")
 		)
 		(pad "B6" smd rect
@@ -8628,8 +8589,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_D+")
-			(pinfunction "D+_B6")
-			(pintype "bidirectional")
 			(uuid "62275977-5c64-41b8-bb26-e21b1e8d92d2")
 		)
 		(pad "B7" smd rect
@@ -8637,8 +8596,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_D-")
-			(pinfunction "D-_B7")
-			(pintype "bidirectional")
 			(uuid "195743a9-42a5-486e-8508-ec450eaddf44")
 		)
 		(pad "B8" smd rect
@@ -8646,8 +8603,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(J5-SBU2-PadB8)")
-			(pinfunction "SBU2_B8")
-			(pintype "bidirectional")
 			(uuid "69a30e0d-0ef8-4a1b-b886-5eaca97a564c")
 		)
 		(pad "B9" smd rect
@@ -8655,8 +8610,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "VBUS")
-			(pinfunction "VBUS_B9")
-			(pintype "passive")
 			(uuid "d7f181db-7ea6-4379-93f9-137ff8584b99")
 		)
 		(pad "B12" smd rect
@@ -8664,8 +8617,6 @@
 			(size 0.3 1.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
-			(pinfunction "GND_B12")
-			(pintype "passive")
 			(uuid "d0a8312a-d85b-46c2-b8b3-69c84e72ea1f")
 		)
 		(embedded_fonts no)
